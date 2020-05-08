@@ -1,2 +1,0 @@
-# devStuffs
-Development Trainings
